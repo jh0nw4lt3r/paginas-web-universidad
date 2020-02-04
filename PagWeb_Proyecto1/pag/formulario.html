@@ -1,0 +1,61 @@
+<html>
+ <body>
+ <font face="Courier New"
+  <center>
+  <form method=post action="cgi-bin/script.pl">
+   Registro de un usuario
+   <table border=0>
+     <tr>
+     <td>Apellido</td>
+      <td><input type=text name="apellido"></td>
+     </tr>
+     <tr>
+      <td>Nombre</td>
+      <td><input type=text name="nombre"></td>
+     </tr>
+     <tr>
+      <td>Email</td>
+      <td><input type=text name="Email"></td>
+     <tr>
+      <td>Apodo</td>
+      <td><input type=text name="apodo"></td>
+     </tr>
+     </tr>
+     <tr>
+      <td>Género</td>
+      <td>
+       Hombre: <input type=radio name="género" value="M">
+       <br>Mujer: <input type=radio name="género" value="F">
+      </td>
+     </tr>
+     <tr>
+      <td>Ocupación</td>
+      <td>
+       <select name="ocupación">
+       <option value="profesor">Profesor</option>
+       <option value="estudiante">Estudiante</option>
+       <option value="ingeniero">Ingeniero</option>
+       <option value="jubilado">Jubilado</option>
+       <option value="otro">Otro</option>
+       </select>
+      </td>
+     </tr>
+     <tr>
+      <td>Comentarios</td>
+      <td>
+       <textarea rows="3" name="comentarios">
+       Escriba aquí sus comentarios</textarea>
+      </td>
+     </tr>
+     <tr>
+      <td colspan=2>
+       <input type="submit" value="Enviar">
+      </td>
+     </tr>
+   </table>
+  </center>
+  </h5>
+  </font>
+  </form>
+ </body>
+</html>

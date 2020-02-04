@@ -1,0 +1,32 @@
+ h1 {
+  font-size: 12pt;
+  font-family: arial, helvetica;
+  font-weight: bold;
+  text-align: center;
+ }
+
+ h2 {
+  font-size: 16pt;
+  font-family: arial, helvetica;
+  font-weight: normal;
+  text-align: center;
+ }
+
+ h3 {
+  font-size: 12pt;
+  font-family: arial, helvetica;
+  font-weight: normal;
+  text-align: justify;
+  text-indent: 20px;
+  margin-right: 1cm;
+ }
+
+ h4 {
+  font-size: 11pt;
+  font-family: arial, helvetica;
+  font-weight: normal;
+  text-align: center;
+  padding-top: 1pt;
+ }
+
+

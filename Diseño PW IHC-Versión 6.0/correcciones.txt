@@ -1,0 +1,8 @@
+Cambios Hechos v6.2
+en el footer de la pagina esta una descripcion de copyright 2013
+la cual estaba anteriormente como copyright 2010.
+
+Al igual que un errorcito de sintaxis ya que decia Todo los derechos reservados 
+y le agrege la "s" que le faltaba.
+
+Buen creo q no hay mas detallitos pendientes! xD
